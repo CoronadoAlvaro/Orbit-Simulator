@@ -1,4 +1,4 @@
-# Orbitas
+# Orbitas - An orbit visualization tool
 
 Orbitas is a software for orbit visualization and simulation developed by Alvaro Coronado and Nerea Galvez.
 
