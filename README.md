@@ -10,7 +10,16 @@ SimORB is a software for orbit visualization and simulation developed by [Your N
 
 ## Installation
 
-1. Clone the repository:
+## Usage
 
-   ```bash
-   git clone https://github.com/yourusername/simorb.git
+- Click on "New Orbit" to add a new orbit with custom parameters.
+- Click on "Erase Orbit" to remove an existing orbit from the visualization.
+- Click on "Start Simulation" to begin the orbit simulation.
+
+## Dependencies
+
+- Java Development Kit (JDK) 8 or higher.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
