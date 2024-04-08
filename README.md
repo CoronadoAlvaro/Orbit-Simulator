@@ -19,8 +19,8 @@ Orbitas is a software for orbit visualization and simulation developed by Alvaro
 ## Dependencies
 
 - Java Development Kit (JDK) 8 or higher.
-- PATRIUS (CNES)
-- WorldWind (NASA)
+- PATRIUS (CNES).
+- WorldWind (NASA).
 
 ## Contributing
 
