@@ -1,6 +1,6 @@
 # SimORB
 
-SimORB is a software for orbit visualization and simulation developed by [Your Name].
+SimORB is a software for orbit visualization and simulation developed by Alvaro Coronado and Nerea Galvez.
 
 ## Features
 
