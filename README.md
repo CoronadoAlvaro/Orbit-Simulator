@@ -1,6 +1,6 @@
-# SimORB
+# Orbitas
 
-SimORB is a software for orbit visualization and simulation developed by Alvaro Coronado and Nerea Galvez.
+Orbitas is a software for orbit visualization and simulation developed by Alvaro Coronado and Nerea Galvez.
 
 ## Features
 
