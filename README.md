@@ -29,7 +29,7 @@ This will launch an intuitive GUI for you to start displaying the desired orbits
 
 ## Changelog
 
-No version updates yet
+No version updates yet.
 
 ## Dependencies
 
