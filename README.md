@@ -7,6 +7,7 @@ Orbitas is a software for orbit visualization and simulation developed by Alvaro
 - **Real-time Visualization**: Users can instantly visualize the orbital trajectories of spacecraft based on the input parameters.
 - **Earth Rotation Consideration**: The software incorporates Earth's rotation into the orbital propagator, offering more accurate simulations.
 - **Educational and Analytical Tool**: Ideal for educational purposes and space enthusiasts.
+- **Full orbit display**: Allows to display orbits for the entirety of the period, contrary to what source WorldWind offers.
 
 ## Installation & Setup
 
