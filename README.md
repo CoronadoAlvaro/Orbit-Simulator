@@ -2,6 +2,8 @@
 
 Orbitas is a software for orbit visualization and simulation developed by Alvaro Coronado and Nerea Galvez.
 
+Latest version is Version Alpha 0.1
+
 ## Features
 - **Interactive Interface**: Obitas provides an interactive interface that allows users to input various orbital parameters.
 - **Real-time Visualization**: Users can instantly visualize the orbital trajectories of spacecraft based on the input parameters.
@@ -24,6 +26,10 @@ This will launch an intuitive GUI for you to start displaying the desired orbits
 - Click on "New Orbit" to add a new orbit with custom parameters.
 - Click on "Erase Orbit" to remove an existing orbit from the visualization.
 - Click on "Start Simulation" to begin the orbit simulation.
+
+## Changelog
+
+No version updates yet
 
 ## Dependencies
 
