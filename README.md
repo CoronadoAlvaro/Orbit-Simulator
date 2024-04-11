@@ -8,7 +8,12 @@ Orbitas is a software for orbit visualization and simulation developed by Alvaro
 - **Earth Rotation Consideration**: The software incorporates Earth's rotation into the orbital propagator, offering more accurate simulations.
 - **Educational and Analytical Tool**: Ideal for educational purposes and space enthusiasts.
 
-## Installation
+## Installation & Setup
+
+1 - Import the java project to your desired java IDE.
+This project includes the source code of the software and it also imports the needed packages for dependencies.
+2 - Run GUI.java
+This will launch an intuitive GUI for you to start displaying the desired orbits.
 
 ## Usage
 
